@@ -1,0 +1,138 @@
+body {
+  font-family: serif;
+}
+
+header {
+  margin-left: 25%;
+  padding: 15vh 40vh 70vh 0px;
+}
+
+
+
+
+h1 {
+
+  font-size: 48px;
+}
+
+header h1 {
+  margin-top:0em;
+}
+header h2 {
+  margin: 0em;
+}
+h2 {
+  font-size: 18px;
+  font-family: sans-serif;
+  text-transform: uppercase;
+  letter-spacing: .1em;
+}
+h3 {
+  font-size: 24px;
+}
+
+.copyright {
+  display: inline-block;
+  float: left;
+  font-size: 12px;
+}
+.publishing {
+  float: right;
+  font-size: 12px;
+  display: inline-block;
+  text-decoration: none;
+
+}
+.author {
+  font-weight: lighter;
+}
+.by {
+  text-transform: lowercase;
+}
+h4 {
+  font-size: 18px;
+  font-family:sans-serif;
+  text-transform: uppercase;
+
+}
+.chapter {
+  letter-spacing: .1em;
+  text-transform: uppercase;
+  font-family: sans-serif;
+  text-align: center;
+
+}
+
+.tdl  {
+  text-trans
+}
+
+table h6 {
+  margin: 10px;
+}
+
+table h4 {
+  margin: 10px;
+  text-align: left;
+  text-transform: none;
+}
+table h6 {
+  text-align: left;
+  text-transform: uppercase;
+  letter-spacing: .15em;
+}
+]
+.tdl2 {
+  margin: 0px;
+  padding: 0vh;
+}
+
+.navigation {
+  position: fixed;
+  top:0;
+  left:0;
+  bottom:0;
+  background-color: White;
+  overflow-y: scroll;
+  width: 20%;
+  transform: translateX(-80%);
+  transition: 300ms;
+}
+
+.navigation:hover {
+  transform: translateX(0%);
+}
+
+a {
+  color: black;
+  text-decoration: none;
+  border: 1px solid;
+  padding: .3em;
+  transition: 300ms;
+}
+
+a:hover {
+  background-color: black;
+  color: White;
+}
+
+h5 {
+  letter-spacing: .1em;
+  font-size: 10px;
+  text-align: right;
+}
+h6 {
+  margin-bottom:
+}
+p {
+  font-size: 14px;
+  max-width: 600px;
+  text-align: left;
+  margin-left: 30%;
+}
+.bodyall {
+  margin: auto;
+}
+.highlight {
+  background-color: yellow;
+}
